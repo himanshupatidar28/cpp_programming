@@ -1,0 +1,5 @@
+Author: Himanshu Patidar
+Purpose: Bookshop Management System Project using C++ language.
+Date: 28 December 2023
+
+This licensed for only personal using for students and developers as learning license not for selling someone.
