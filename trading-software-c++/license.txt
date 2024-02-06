@@ -1,0 +1,5 @@
+Author: Himanshu Patidar
+Purpose: Trading Software Project using C++ language.
+Date:  06 February 2024
+
+This licensed for only personal using for students and developers as learning license not for selling someone.
