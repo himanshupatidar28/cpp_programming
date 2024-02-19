@@ -1,0 +1,5 @@
+Author: Himanshu Patidar
+Purpose: Contact Book Project using C++ language.
+Date: 17 Feburary 2024
+
+This licensed for only personal using for students and developers as learning license not for selling someone.
